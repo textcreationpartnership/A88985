@@ -1,0 +1,148 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation from Hull of the present state and condition it is in. As it was written in a letter from thence  by one of good quality, to a citizen in London, being dated the 19th of this instant moneth of Septemb. 1643. VVhich letter was brought into London the twenty eight of this moneth.</title>
+            <author>May, Thomas, 1595-1650.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1643</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 5 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A88985</idno>
+            <idno type="STC">Wing M1415</idno>
+            <idno type="STC">Thomason E69_13</idno>
+            <idno type="STC">ESTC R18397</idno>
+            <idno type="EEBO-CITATION">99860397</idno>
+            <idno type="PROQUEST">99860397</idno>
+            <idno type="VID">112517</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A88985)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112517)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 12:E69[13])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation from Hull of the present state and condition it is in. As it was written in a letter from thence  by one of good quality, to a citizen in London, being dated the 19th of this instant moneth of Septemb. 1643. VVhich letter was brought into London the twenty eight of this moneth.</title>
+                  <author>May, Thomas, 1595-1650.</author>
+               </titleStmt>
+               <extent>[2], 5, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by G. Dexter, for Iohn Bull,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>Anno 1643, Sept. 30.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Attributed to Thomas May.  cf. BLC.</note>
+                  <note>Reproduction of original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Hull (England) --  History --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-03</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2010-04</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112517:1" rendition="simple:additions"/>
+            <p>A True RELATION FROM HVLL OF The present state and condi<g ref="char:EOLhyphen"/>tion it is in.</p>
+            <p>AS It was written in a Letter from thence by one of good quality, to a Citizen in <hi>London,</hi> being dated the 19<hi rend="sup">th</hi> of this instant Moneth of <hi>Septemb.</hi> 1643.</p>
+            <p>VVhich Letter was brought into <hi>London</hi> the twenty eight of this Moneth.</p>
+            <p>Ordered to bee Printed.</p>
+            <p>
+               <hi>LONDON,</hi> Printed by <hi>G. Dexter,</hi> for <hi>Iohn Bull. Anno</hi> 1643. <hi>Sept.</hi> 30.</p>
+         </div>
+      </front>
+      <body>
+         <div type="letter">
+            <pb facs="tcp:112517:2"/>
+            <pb n="1" facs="tcp:112517:2"/>
+            <head>
+               <hi>Hull</hi> the 19<hi rend="sup">th.</hi> of <hi>Septemb.</hi> 1643.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S for newes from hence, I shall informe you as followeth: We found this town beleagured by the Earle of <hi>New castles</hi> Forces, to the num<g ref="char:EOLhyphen"/>ber of 15 thousand, as is credibly reported, they lye at <hi>Cot<g ref="char:EOLhyphen"/>tingham,</hi> and <hi>Newland,</hi> and those that lie nearest, are about a mile off from the Town, they have cast up leverall works against the Towne, and planted di<g ref="char:EOLhyphen"/>vers Pieces of Battteries in them and daily make many shots against it, but blessed bee God have done little hurt, although they have shot many 36 <hi>pound</hi>
+               <pb n="2" facs="tcp:112517:3"/>
+bullets, especially upon the last Lords Day when wee were at Church, they came flying over it and flew into the Market place but did no hurt but to a Malignants Chimneys. Every Day many shots with the great Pieces are made from the Towne and Blockhouse against the Enemies Workes, and the Town where they are but wee cannot heare certainly what execution hath vin done, our musqueteers and theirs play<g ref="char:EOLhyphen"/>ing continually at one another in the mid way, so that they are yet kept at a dist<g ref="char:EOLhyphen"/>ance that they cannot shoote their Gra<g ref="char:EOLhyphen"/>nadoes into the Town to fire it: They have spoyld all the Country neere <hi>Hull,</hi> and most miserably plundered <hi>Beverly,</hi> they have cut off our fresh water, but (God be blessed) here is no great want of provision for men as yet, bread is the scarcest, there is Corne enough in the Towne, but they cannot get it grinded fast enough. <hi>Newcastle</hi> is exceeding mad that he cannot get this Towne for his winter quarters as he did hope, or to be
+<pb n="3" facs="tcp:112517:3"/>
+a sanctuary for him from the Scots: Its reported that he cares not for the losse of ten thousand Men, so that hee could but possesse himselfe of the Town for by the Commission of <hi>Array,</hi> the Lord <hi>Dunbar<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e</hi> brings in all the country men to make his number great. The last weeke we cut the Banks to let out the water into the grounds, which overflowes indiffe<g ref="char:EOLhyphen"/>rent well, but it's thought they use some meanes to let it in againe, it will be some hindrance to them as it is. There is no feare of the Towne in probability, if the Lord have not designed to give it into the enemies hand; and I am perswaded they will returne again to <hi>Yorke</hi> ere long with losse and shame: Colonell <hi>Cromwell</hi> is come into <hi>Lincolne-shire</hi> with 5000. horse and foot, and hath sent some troops to <hi>Barton</hi> yesterday to meete with our horse, which are going over to them at every tyde, as many as can goe in the boates. There goes away 21 Troops, and 4 troops stay in this town we heare that <hi>Lyn</hi> is in the Earle of <hi>Manchesters</hi>
+               <pb n="4" facs="tcp:112517:4"/>
+power, they are willing to yeeld to two Propositions, as to acknowledge their offence against the Parliament, and to pay the fine, which he shall impose upon them, but they are unwilling to deliver up their Delinquents, which the Earle stands most upon, for the greatest Ma<g ref="char:EOLhyphen"/>lignants in the associated Counties are fled thither. Here was an accident hap<g ref="char:EOLhyphen"/>ned on <hi>Saterday</hi> last at the North block<g ref="char:EOLhyphen"/>house, which if the Lord had not pre<g ref="char:EOLhyphen"/>vented might have been the ruine of this Town: there was 40 odd Carthages of powder blown up, and some Granadoes being in the place, fired, brooke downe a great part of the Block house both with<g ref="char:EOLhyphen"/>in and without, which is thought will scarce be repaired with 2000 <hi>pound,</hi> but the especiall providence of God appeared herein, in that it was blowne up on that side that lay next to the Towne, other<g ref="char:EOLhyphen"/>wise it would have beene very advanta<g ref="char:EOLhyphen"/>geous to the Enemy. But this is re<g ref="char:EOLhyphen"/>markable aboue the rest, and in it the hand of God was emminent, that it
+<pb n="5" facs="tcp:112517:4"/>
+blew open a doore in which Roome was 14 barrells of powder, some with the heads open and yet tooke not fir, which if it had done it would have blowne up the whole house, and spoyled some of the Towne: It was conceived at the first that there was Treachery, but it appea<g ref="char:EOLhyphen"/>red to bee done by the carelesnesse of a Gunner: there were foure kil'd, and as many hurt. We have a report of good news from the Earl of <hi>Essex</hi> his Army, I shall be much ingaged to you, if you will by the first give a testimony thereof, and also what other newes is stirring with you in print, and you shall oblige me to answer your expectation in the like kind. And so at present having not else to en<g ref="char:EOLhyphen"/>large, I commit you unto the Almigh<g ref="char:EOLhyphen"/>ties protection, and ever rest.</p>
+            <closer>
+               <signed>Your assured Friend THO. MAY.</signed>
+            </closer>
+            <trailer>FINIS</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
